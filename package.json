@@ -1,0 +1,7 @@
+{
+  "name": "collective-intelligence-scratchpad",
+  "version": "0.0.0",
+  "dependencies": {
+    "immutable": "^3.8.1"
+  }
+}
