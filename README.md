@@ -1,2 +1,2 @@
 # collective-intelligence
-Awesome fun learning project
+Awesome fun learning project.
